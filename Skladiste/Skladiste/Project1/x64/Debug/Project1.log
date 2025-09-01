@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\tomis\OneDrive\Radna površina\Skladiste\Skladiste\Project1\main.c(47,9): warning C4013: 'to_lowercase' undefined; assuming extern returning int
+  Project1.vcxproj -> C:\Users\tomis\OneDrive\Radna površina\Skladiste\Skladiste\x64\Debug\Project1.exe

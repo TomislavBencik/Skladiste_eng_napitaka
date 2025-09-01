@@ -1,0 +1,15 @@
+1 monster orange 8 1.98
+2 monster original 12 1.98
+3 monster ultra 15 1.98
+4 monster zero 20 1.98
+5 hell classic 5 1.49
+6 hell grape 7 1.49
+7 hell cherry 9 1.49
+8 hell coffeine 12 1.49
+9 redbull original 50 2.00
+10 redbull watermelon 30 2.00
+11 redbull zero 24 2.00
+12 sojo_drink insomnia420 90 5.00
+13 sojo_drink extra_sugar 100 5.00
+14 sojo_drink heart_attack 200 5.00
+15 sojo_drink trivijalno 150 5.00
